@@ -1,1 +1,1 @@
-console.log("Welcome to Hany Byoumy's portfolio!");
+document.getElementById('year').textContent = new Date().getFullYear();
